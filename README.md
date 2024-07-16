@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...fe
 - ⚡ Fun fact: ....das
 good morrow
+- powerman
 
 <!---
 blackerson/blackerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
